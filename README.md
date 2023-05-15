@@ -5,7 +5,7 @@
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/DujkXSj7PyG6WWsXl4ZtCw" target="_blank">
     <img alt="whatsapp" src="𝐶𝛨𝛥𝛭𝛩𝐷-𝛭𝐷-𝐵𝛩𝑇/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
