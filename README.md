@@ -6,7 +6,7 @@
 </p>  
 <p align="center">
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM" target="_blank">
-    <img alt="whatsapp" src="https://telegra.ph/file/fefe729e79e40d4f63f6c.jpg/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="𝐶𝛨𝛥𝛭𝛩𝐷-𝛭𝐷-𝐵𝛩𝑇/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"><img src="https://telegra.ph/file/fefe729e79e40d4f63f6c.jpg" alt="prabathLK :: Visitor's Count" /></p>
+<p align="center"><img src="𝐶𝛨𝛥𝛭𝛩𝐷-𝛭𝐷-𝐵𝛩𝑇" alt="prabathLK :: Visitor's Count" /></p>
 
   <p align="center"> 🔴 This is a whatsapp bot created based on Secktor-md whatsapp bot.  </p
 
