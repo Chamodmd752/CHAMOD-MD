@@ -1,5 +1,5 @@
   <p align="center">  
-  <a href="https://telegra.ph/file/fefe729e79e40d4f63f6c.jpg">
+  <a href="https://i.imgur.com/xVEdS7r.jpeg">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/fefe729e79e40d4f63f6c.jpg">
     <h1 align="center"> CHAMOD-MD </h1>
   </a>
