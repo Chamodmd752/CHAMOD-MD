@@ -1,9 +1,8 @@
-
-<p align="center">  
-  <a href="https://i.imgur.com/xVEdS7r.jpeg">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/fefe729e79e40d4f63f6c.jpg">
-    <h1 align="center"> CHAMOD-MD </h1>
-  </a>
+<p align="center">
+<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
+<p align="center">
+<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
+</p>
 </p>  
 <p align="center">
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/DujkXSj7PyG6WWsXl4ZtCw" target="_blank">
