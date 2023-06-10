@@ -1,7 +1,3 @@
-<
-p align="center">
-<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
-<p align="center">
 
 <p align="center">  
   <a href="https://i.imgur.com/xVEdS7r.jpeg">
@@ -27,7 +23,7 @@ p align="center">
   
 
 ##  
-# [SCAN QR CODE HERE 👇🏻](https://anyaqr.jetus-hack.repl.co/)
+# [SCAN QR CODE HERE 👇🏻🌟
 
 <p align="center">
 <a href="https://anyaqr.jetus-hack.repl.co/"><img src="https://i.imgur.com/xVEdS7r.jpeg" align="center" width="90" />
