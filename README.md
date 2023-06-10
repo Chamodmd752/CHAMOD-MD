@@ -19,8 +19,16 @@
 <p align="center"><img src="𝐶𝛨𝛥𝛭𝛩𝐷-𝛭𝐷-𝐵𝛩𝑇" alt="prabathLK :: Visitor's Count" /></p>
 
   <p align="center"> 🔴 This is a whatsapp bot created based on Secktor-md whatsapp bot.  </p
-
   
+
+##  
+# [SCAN QR CODE HERE 👇🏻](https://anyaqr.jetus-hack.repl.co/)
+
+<p align="center">
+<a href="https://anyaqr.jetus-hack.repl.co/"><img src="https://i.imgur.com/xVEdS7r.jpeg" align="center" width="90" />
+</div>
+<p align="center">
+</p>
 
 ---
 
